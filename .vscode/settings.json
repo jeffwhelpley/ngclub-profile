@@ -1,5 +1,5 @@
 {
-  "editor.theme": "vs-dark",
+  "editor.theme": "vs-light",
   "editor.wordWrap": "off",
   "editor.formatOnType": true,
   "editor.fontSize": 20,
